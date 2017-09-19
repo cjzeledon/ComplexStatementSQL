@@ -1,8 +1,5 @@
 # Complex Statement SQL
 
-Write more complex SQL statements<br>
-Using your todolist database, write more SQL commands.<br>
-
 Using the todolist database from the previous project, write another set of SQL statements in a file called todo2.sql.<br>
 
 Write INSERT statements to insert 20 todos into the todos table, with a combination of priorities, created times, and completed times, with not all having a completed time.<br>
